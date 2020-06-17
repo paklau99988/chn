@@ -16,6 +16,9 @@ https://github.com/CynthiaSuwi/ASR-for-Chinese-Pipeline
 https://www.groundai.com/project/aishell-2-transforming-mandarin-asr-research-into-industrial-scale/1
 
 
+http://www.openslr.org/18/
+
+
 **ESPNet 
 
 https://zhuanlan.zhihu.com/p/112804998
