@@ -39,5 +39,6 @@ W0617 05:33:02.716257   374 device_context.cc:236] Please NOTE: device: 0, CUDA 
 W0617 05:33:02.719714   374 device_context.cc:244] device: 0, cuDNN Version: 7.5.
 W0617 05:33:02.719738   374 device_context.cc:270] WARNING: device: 0. The installed Paddle is compiled with CUDNN 7.6, but CUDNN version in your machine is 7               .5, which may cause serious incompatible bug. Please recompile or reinstall Paddle with compatible CUDNN version.
 
+{"audio_filepath": "/data_aishell/wav/test/S0765/BAC009S0765W0371.wav", "duration": 5.118875, "text": "中国的冬季运动还处于半起步阶段"}
 
 
