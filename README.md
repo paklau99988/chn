@@ -16,5 +16,6 @@ ESPNet
 https://github.com/PaddlePaddle/DeepSpeech#running-in-docker-container
 DeepSpeech in Mandarin, 
 https://deepspeech.bj.bcebos.com/zh_lm/zh_giga.no_cna_cmn.prune01244.klm
+https://nero-mirror.stanford.edu/pypi/web/simple/paddlepaddle-gpu/
 
 
