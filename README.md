@@ -44,4 +44,5 @@ W0617 05:33:02.719738   374 device_context.cc:270] WARNING: device: 0. The insta
 
 {"audio_filepath": "/data_aishell/wav/test/S0765/BAC009S0765W0371.wav", "duration": 5.118875, "text": "中国的冬季运动还处于半起步阶段"}
 
-
+Reporting real CER
+http://cs230.stanford.edu/projects_winter_2020/reports/32618697.pdf
