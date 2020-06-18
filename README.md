@@ -29,6 +29,8 @@ http://www.vc-challenge.org/
 https://colab.research.google.com/github/espnet/notebook/blob/master/asr_library.ipynb
 https://drive.google.com/drive/folders/1qjA62cTZWJEoufqC-sASoy89pQxsVeWA
 https://github.com/bigpon/vcc20_baseline_cyclevae
+https://github.com/espnet/espnet/tree/master/egs/vcc20
+
 
 **DeepSpeech in Mandarin:
 
