@@ -23,6 +23,9 @@ http://www.openslr.org/18/
 
 https://zhuanlan.zhihu.com/p/112804998
 
+**Voice conversion challenge 2020
+
+http://www.vc-challenge.org/
 
 
 **DeepSpeech in Mandarin:
